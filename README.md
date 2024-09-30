@@ -26,10 +26,10 @@ The main data sourec for this project is create_restaurant_db   which contain tw
 - View the menu_items table and write a query to find the number of items on the menu.
 - What are the least and the most expensive items on the menu?
 - How many italian dishes are on the menu?
-- How many dishes are in aech category?
+- How many dishes are in each category?
 - View the order_details table. What is the date range of the table?
 - How many order were made within the date range?
-- Which order had the most number of items?
+- Which order has the most number of items?
 - How many order had more than 12 items?
 
 
